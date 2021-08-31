@@ -17,10 +17,4 @@ This project is designed for one to practice the Git/Github workflow here at Lam
 
 - Steve Rogers
 - Ryan Hamblin
-- Justin D Stewart
-- Justin D Stewart
-ga
-fad sfasdf
-adfaefefawe
-afefeafwefe
-eafefawe
+- Justin Stewart
